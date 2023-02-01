@@ -6,4 +6,3 @@ This repository contains the source code (tensorflow, coming soon!) and pre-trai
 > by Manu Tom, Yuchang Jiang, Emmanuel Baltsavias and Konrad Schindler
 
 ![segmentation_sar](figures/2-step_model_with_uNet.png)
-
